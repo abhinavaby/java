@@ -26,6 +26,6 @@ public class array {
         Arrays.sort(num);
         System.out.println(Arrays.toString(num));
         Arrays.fill(num,0);
-        System.out.println("after filling with 0 : "+ Arrays.toString(num));
+        System.out.println("after filling with 0 -> "+ Arrays.toString(num));
     }
 }
